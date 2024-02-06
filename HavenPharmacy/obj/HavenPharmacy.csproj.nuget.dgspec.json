@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy\\HavenPharmacy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.BL\\HavenPharmacy.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.BL\\HavenPharmacy.BL.csproj",
+        "projectName": "HavenPharmacy.BL",
+        "projectPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.BL\\HavenPharmacy.BL.csproj",
+        "packagesPath": "C:\\Users\\Yoga 2nd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yoga 2nd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.DL\\HavenPharmacy.DL.csproj": {
+                "projectPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.DL\\HavenPharmacy.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.DL\\HavenPharmacy.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.DL\\HavenPharmacy.DL.csproj",
+        "projectName": "HavenPharmacy.DL",
+        "projectPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.DL\\HavenPharmacy.DL.csproj",
+        "packagesPath": "C:\\Users\\Yoga 2nd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yoga 2nd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.Models\\HavenPharmacy.Models.csproj": {
+                "projectPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.Models\\HavenPharmacy.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.Models\\HavenPharmacy.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.Models\\HavenPharmacy.Models.csproj",
+        "projectName": "HavenPharmacy.Models",
+        "projectPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.Models\\HavenPharmacy.Models.csproj",
+        "packagesPath": "C:\\Users\\Yoga 2nd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yoga 2nd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy\\HavenPharmacy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy\\HavenPharmacy.csproj",
+        "projectName": "HavenPharmacy",
+        "projectPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy\\HavenPharmacy.csproj",
+        "packagesPath": "C:\\Users\\Yoga 2nd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yoga 2nd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.BL\\HavenPharmacy.BL.csproj": {
+                "projectPath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.BL\\HavenPharmacy.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

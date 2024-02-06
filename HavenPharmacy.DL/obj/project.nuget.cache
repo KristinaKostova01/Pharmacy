@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uaR8zGh+xSP1ZLK7h0nnsROZsqoFiRYUnG/rvcNdbSs1Esq6o5vFipGe16XSZvQEABpObjNxD7MD2kcqSZ1Eqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoga 2nd\\OneDrive\\Работен плот\\HealthyHaven Pharmacy\\HavenPharmacy.DL\\HavenPharmacy.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoga 2nd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Yoga 2nd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Yoga 2nd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

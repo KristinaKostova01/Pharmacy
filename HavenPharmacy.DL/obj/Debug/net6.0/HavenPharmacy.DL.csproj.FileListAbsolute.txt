@@ -1,0 +1,30 @@
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.DL.deps.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.DL.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.DL.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.AssemblyInfo.cs
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\refint\HavenPharmacy.DL.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\ref\HavenPharmacy.DL.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.Models.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.Models.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.csproj.CopyComplete
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.DL.deps.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.DL.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.DL.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.Models.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\bin\Debug\net6.0\HavenPharmacy.Models.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.csproj.AssemblyReference.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.AssemblyInfoInputs.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.AssemblyInfo.cs
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.csproj.CoreCompileInputs.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.csproj.CopyComplete
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\refint\HavenPharmacy.DL.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\HavenPharmacy.DL.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy.DL\obj\Debug\net6.0\ref\HavenPharmacy.DL.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HavenPharmacy.DL/1.0.0": {
+        "dependencies": {
+          "HavenPharmacy.Models": "1.0.0"
+        },
+        "runtime": {
+          "HavenPharmacy.DL.dll": {}
+        }
+      },
+      "HavenPharmacy.Models/1.0.0": {
+        "runtime": {
+          "HavenPharmacy.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HavenPharmacy.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HavenPharmacy.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

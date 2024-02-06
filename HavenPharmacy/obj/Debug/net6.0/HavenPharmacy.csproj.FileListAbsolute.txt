@@ -1,0 +1,82 @@
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\appsettings.Development.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\appsettings.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.exe
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.deps.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.runtimeconfig.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.AssemblyInfo.cs
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets.build.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets.development.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.HavenPharmacy.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.build.HavenPharmacy.props
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HavenPharmacy.props
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HavenPharmacy.props
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\scopedcss\bundle\HavenPharmacy.styles.css
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\refint\HavenPharmacy.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.genruntimeconfig.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\ref\HavenPharmacy.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.BL.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.DL.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.Models.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.BL.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.DL.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.Models.pdb
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.csproj.CopyComplete
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\FluentValidation.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.MvcApplicationPartsAssemblyInfo.cs
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\Visual Studio Projects\HealthHavenPharmacy\HavenPharmacy\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\appsettings.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.exe
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.deps.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.runtimeconfig.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.BL.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.DL.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.Models.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.BL.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.DL.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\bin\Debug\net6.0\HavenPharmacy.Models.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.csproj.AssemblyReference.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.AssemblyInfoInputs.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.AssemblyInfo.cs
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.HavenPharmacy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.build.HavenPharmacy.props
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HavenPharmacy.props
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HavenPharmacy.props
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\scopedcss\bundle\HavenPharmacy.styles.css
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.csproj.CopyComplete
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\refint\HavenPharmacy.dll
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.pdb
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\HavenPharmacy.genruntimeconfig.cache
+C:\Users\Yoga 2nd\OneDrive\Работен плот\HealthyHaven Pharmacy\HavenPharmacy\obj\Debug\net6.0\ref\HavenPharmacy.dll
